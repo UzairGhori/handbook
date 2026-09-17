@@ -4,11 +4,14 @@ title: What a Knowledge System of Record is
 description: The authoritative, governed knowledge layer humans, agents and software operate from.
 status: stable
 order: 1
-generated: { by: "ksor-starter/0.0.60", at: 2026-08-25T00:00:00Z }
+generated: { by: "ksor-starter/0.0.60", at: 2026-09-16T12:00:00Z }
 ksor:
   audience: [public]
-  approval: { by: "ksor-starter/0.0.60", at: 2026-08-25T00:00:00Z }
+  approval: { by: "ksor-starter/0.0.60", at: 2026-09-16T12:05:00Z }
 ---
+
+Welcome To My First KSoR in GIAIC Project 
+
 
 A traditional system of record establishes what is true about the current state
 of a business: the ledger is authoritative for transactions, the HRIS for
